@@ -1,0 +1,9 @@
+id,zone_name_txt,zone_name_img,location_id,ColorCode
+1,ui_zone_name_galle,zone_name_galle.png,101,#ff7d7d
+2,ui_zone_name_arcadia,zone_name_arcadia.png,102,#b660ff
+3,ui_zone_name_utopia,zone_name_utopia.png,103,#ff80c2
+4,ui_zone_name_frisia,zone_name_frisia.png,104,#ff986f
+5,ui_zone_name_eridania,zone_name_eridania.png,105,#ffc046
+6,ui_zone_name_baltia,zone_name_baltia.png,106,#7d89ff
+7,ui_zone_name_delport,zone_name_delport.png,107,#4fe99f
+8,ui_zone_name_candor,zone_name_candor.png,108,#46daff
